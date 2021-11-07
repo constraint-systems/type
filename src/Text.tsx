@@ -64,7 +64,6 @@ class Text extends THREE.InstancedMesh {
     let aspect;
     let rows;
     let perRow;
-    console.log("chars");
     const chars =
       " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ012346789%$€¥£¢&*@#|áâàäåãæçéêèëíîìï:;-–—•,.…'\"`„‹›«»/\\?!¿¡()[]{}©®§+×=_°~^<>".split(
         ""

@@ -19,7 +19,7 @@ function App() {
   const keyboardRef = useRef<HTMLInputElement | null>(null);
 
   useEffect(() => {
-    document.fonts.ready.then(() => {
+    document.fonts.load('16px "custom"').then(() => {
       const newState = new State(canvasRef.current, printCanvasRef.current);
       setState(newState);
     });
