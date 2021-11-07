@@ -1,7 +1,7 @@
 # Type
 
 <img
-src='https://raw.githubusercontent.com/constraint-systems/push/main/public/type.gif'
+src='https://raw.githubusercontent.com/constraint-systems/type/main/public/type.gif'
 width="600"/>
 
 A directed typing experiment. You choose the direction the letters should flow.
